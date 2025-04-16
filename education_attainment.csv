@@ -1,0 +1,721 @@
+Area,Year,Age,Education,Distribution
+Albania,2020,20--39,No Education,2.46
+Albania,2025,20--39,No Education,1.96
+Austria,2020,20--39,No Education,0.01
+Austria,2025,20--39,No Education,0.04
+Belarus,2020,20--39,No Education,0.13
+Belarus,2025,20--39,No Education,0.11
+Belgium,2020,20--39,No Education,0.08
+Belgium,2025,20--39,No Education,0.09
+Bosnia and Herzegovina,2020,20--39,No Education,0.57
+Bosnia and Herzegovina,2025,20--39,No Education,0.61
+Bulgaria,2020,20--39,No Education,1.38
+Bulgaria,2025,20--39,No Education,1.26
+Croatia,2020,20--39,No Education,0.32
+Croatia,2025,20--39,No Education,0.27
+Czech Republic,2020,20--39,No Education,0.39
+Czech Republic,2025,20--39,No Education,0.29
+Denmark,2020,20--39,No Education,0.03
+Denmark,2025,20--39,No Education,0.03
+Estonia,2020,20--39,No Education,0.29
+Estonia,2025,20--39,No Education,0.24
+Europe,2020,20--39,No Education,0.3
+Europe,2025,20--39,No Education,0.29
+Finland,2020,20--39,No Education,0.01
+Finland,2025,20--39,No Education,0.03
+France,2020,20--39,No Education,0.59
+France,2025,20--39,No Education,0.5
+Germany,2020,20--39,No Education,0.01
+Germany,2025,20--39,No Education,0.04
+Greece,2020,20--39,No Education,1.24
+Greece,2025,20--39,No Education,1.11
+Hungary,2020,20--39,No Education,0.32
+Hungary,2025,20--39,No Education,0.24
+Iceland,2020,20--39,No Education,0.03
+Iceland,2025,20--39,No Education,0.05
+Ireland,2020,20--39,No Education,0.01
+Ireland,2025,20--39,No Education,0.04
+Italy,2020,20--39,No Education,0.09
+Italy,2025,20--39,No Education,0.12
+Latvia,2020,20--39,No Education,0.16
+Latvia,2025,20--39,No Education,0.17
+Lithuania,2020,20--39,No Education,0.21
+Lithuania,2025,20--39,No Education,0.17
+Luxembourg,2020,20--39,No Education,0.01
+Luxembourg,2025,20--39,No Education,0.07
+Malta,2020,20--39,No Education,0
+Malta,2025,20--39,No Education,0.05
+Montenegro,2020,20--39,No Education,0.57
+Montenegro,2025,20--39,No Education,0.72
+Netherlands,2020,20--39,No Education,0
+Netherlands,2025,20--39,No Education,0.02
+Norway,2020,20--39,No Education,0.16
+Norway,2025,20--39,No Education,0.12
+Poland,2020,20--39,No Education,0.01
+Poland,2025,20--39,No Education,0.03
+Portugal,2020,20--39,No Education,1.34
+Portugal,2025,20--39,No Education,1.13
+Republic of Moldova,2020,20--39,No Education,0.12
+Republic of Moldova,2025,20--39,No Education,0.15
+Romania,2020,20--39,No Education,1.43
+Romania,2025,20--39,No Education,1.15
+Russian Federation,2020,20--39,No Education,0.28
+Russian Federation,2025,20--39,No Education,0.31
+Serbia,2020,20--39,No Education,1.11
+Serbia,2025,20--39,No Education,1.01
+Slovakia,2020,20--39,No Education,0.62
+Slovakia,2025,20--39,No Education,0.83
+Slovenia,2020,20--39,No Education,0.14
+Slovenia,2025,20--39,No Education,0.11
+Spain,2020,20--39,No Education,0.55
+Spain,2025,20--39,No Education,0.55
+Sweden,2020,20--39,No Education,0.01
+Sweden,2025,20--39,No Education,0.04
+Switzerland,2020,20--39,No Education,0.92
+Switzerland,2025,20--39,No Education,0.97
+The former Yugoslav Republic of Macedonia,2020,20--39,No Education,0.88
+The former Yugoslav Republic of Macedonia,2025,20--39,No Education,0.74
+Ukraine,2020,20--39,No Education,0.09
+Ukraine,2025,20--39,No Education,0.07
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,No Education,0.01
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,No Education,0.04
+Albania,2020,20--39,Incomplete Primary,0.36
+Albania,2025,20--39,Incomplete Primary,0.31
+Austria,2020,20--39,Incomplete Primary,0.01
+Austria,2025,20--39,Incomplete Primary,0.09
+Belarus,2020,20--39,Incomplete Primary,0.04
+Belarus,2025,20--39,Incomplete Primary,0.08
+Belgium,2020,20--39,Incomplete Primary,0.01
+Belgium,2025,20--39,Incomplete Primary,0.1
+Bosnia and Herzegovina,2020,20--39,Incomplete Primary,0.08
+Bosnia and Herzegovina,2025,20--39,Incomplete Primary,0.13
+Bulgaria,2020,20--39,Incomplete Primary,1.58
+Bulgaria,2025,20--39,Incomplete Primary,1.54
+Croatia,2020,20--39,Incomplete Primary,0.08
+Croatia,2025,20--39,Incomplete Primary,0.12
+Czech Republic,2020,20--39,Incomplete Primary,0.01
+Czech Republic,2025,20--39,Incomplete Primary,0.03
+Denmark,2020,20--39,Incomplete Primary,0.01
+Denmark,2025,20--39,Incomplete Primary,0.02
+Estonia,2020,20--39,Incomplete Primary,0.01
+Estonia,2025,20--39,Incomplete Primary,0.06
+Europe,2020,20--39,Incomplete Primary,0.26
+Europe,2025,20--39,Incomplete Primary,0.3
+Finland,2020,20--39,Incomplete Primary,0.01
+Finland,2025,20--39,Incomplete Primary,0.05
+France,2020,20--39,Incomplete Primary,0.01
+France,2025,20--39,Incomplete Primary,0.12
+Germany,2020,20--39,Incomplete Primary,0.01
+Germany,2025,20--39,Incomplete Primary,0.11
+Greece,2020,20--39,Incomplete Primary,0.72
+Greece,2025,20--39,Incomplete Primary,0.79
+Hungary,2020,20--39,Incomplete Primary,0.01
+Hungary,2025,20--39,Incomplete Primary,0.03
+Iceland,2020,20--39,Incomplete Primary,0.01
+Iceland,2025,20--39,Incomplete Primary,0.04
+Ireland,2020,20--39,Incomplete Primary,0.4
+Ireland,2025,20--39,Incomplete Primary,0.39
+Italy,2020,20--39,Incomplete Primary,0.42
+Italy,2025,20--39,Incomplete Primary,0.34
+Latvia,2020,20--39,Incomplete Primary,0.48
+Latvia,2025,20--39,Incomplete Primary,0.55
+Lithuania,2020,20--39,Incomplete Primary,0.44
+Lithuania,2025,20--39,Incomplete Primary,0.48
+Luxembourg,2020,20--39,Incomplete Primary,0.01
+Luxembourg,2025,20--39,Incomplete Primary,0.26
+Malta,2020,20--39,Incomplete Primary,0.01
+Malta,2025,20--39,Incomplete Primary,0.1
+Montenegro,2020,20--39,Incomplete Primary,0.79
+Montenegro,2025,20--39,Incomplete Primary,0.64
+Netherlands,2020,20--39,Incomplete Primary,0.66
+Netherlands,2025,20--39,Incomplete Primary,0.5
+Norway,2020,20--39,Incomplete Primary,0.01
+Norway,2025,20--39,Incomplete Primary,0.03
+Poland,2020,20--39,Incomplete Primary,0.01
+Poland,2025,20--39,Incomplete Primary,0.03
+Portugal,2020,20--39,Incomplete Primary,2.42
+Portugal,2025,20--39,Incomplete Primary,2.37
+Republic of Moldova,2020,20--39,Incomplete Primary,0.19
+Republic of Moldova,2025,20--39,Incomplete Primary,0.11
+Romania,2020,20--39,Incomplete Primary,0.01
+Romania,2025,20--39,Incomplete Primary,0.03
+Russian Federation,2020,20--39,Incomplete Primary,0.17
+Russian Federation,2025,20--39,Incomplete Primary,0.22
+Serbia,2020,20--39,Incomplete Primary,0.29
+Serbia,2025,20--39,Incomplete Primary,0.29
+Slovakia,2020,20--39,Incomplete Primary,0.01
+Slovakia,2025,20--39,Incomplete Primary,0.03
+Slovenia,2020,20--39,Incomplete Primary,0.01
+Slovenia,2025,20--39,Incomplete Primary,0.04
+Spain,2020,20--39,Incomplete Primary,1.63
+Spain,2025,20--39,Incomplete Primary,1.75
+Sweden,2020,20--39,Incomplete Primary,0.01
+Sweden,2025,20--39,Incomplete Primary,0.09
+Switzerland,2020,20--39,Incomplete Primary,0.01
+Switzerland,2025,20--39,Incomplete Primary,0.15
+The former Yugoslav Republic of Macedonia,2020,20--39,Incomplete Primary,1.87
+The former Yugoslav Republic of Macedonia,2025,20--39,Incomplete Primary,1.74
+Ukraine,2020,20--39,Incomplete Primary,0.09
+Ukraine,2025,20--39,Incomplete Primary,0.08
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Incomplete Primary,0.01
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Incomplete Primary,0.02
+Albania,2020,20--39,Primary,1.27
+Albania,2025,20--39,Primary,0.87
+Austria,2020,20--39,Primary,2.15
+Austria,2025,20--39,Primary,2
+Belarus,2020,20--39,Primary,0.12
+Belarus,2025,20--39,Primary,0.11
+Belgium,2020,20--39,Primary,4.17
+Belgium,2025,20--39,Primary,3.78
+Bosnia and Herzegovina,2020,20--39,Primary,0.69
+Bosnia and Herzegovina,2025,20--39,Primary,0.51
+Bulgaria,2020,20--39,Primary,4.06
+Bulgaria,2025,20--39,Primary,3.73
+Croatia,2020,20--39,Primary,0.26
+Croatia,2025,20--39,Primary,0.23
+Czech Republic,2020,20--39,Primary,0.2
+Czech Republic,2025,20--39,Primary,0.18
+Denmark,2020,20--39,Primary,0.07
+Denmark,2025,20--39,Primary,0.05
+Estonia,2020,20--39,Primary,1.94
+Estonia,2025,20--39,Primary,1.67
+Europe,2020,20--39,Primary,1.98
+Europe,2025,20--39,Primary,1.84
+Finland,2020,20--39,Primary,0.34
+Finland,2025,20--39,Primary,0.48
+France,2020,20--39,Primary,4.65
+France,2025,20--39,Primary,4.16
+Germany,2020,20--39,Primary,2.02
+Germany,2025,20--39,Primary,1.63
+Greece,2020,20--39,Primary,5.86
+Greece,2025,20--39,Primary,5.14
+Hungary,2020,20--39,Primary,0.74
+Hungary,2025,20--39,Primary,0.53
+Iceland,2020,20--39,Primary,0.01
+Iceland,2025,20--39,Primary,0.05
+Ireland,2020,20--39,Primary,1.59
+Ireland,2025,20--39,Primary,1.11
+Italy,2020,20--39,Primary,0.87
+Italy,2025,20--39,Primary,0.54
+Latvia,2020,20--39,Primary,1.89
+Latvia,2025,20--39,Primary,1.57
+Lithuania,2020,20--39,Primary,0.78
+Lithuania,2025,20--39,Primary,0.62
+Luxembourg,2020,20--39,Primary,3.85
+Luxembourg,2025,20--39,Primary,2.82
+Malta,2020,20--39,Primary,0.28
+Malta,2025,20--39,Primary,0.32
+Montenegro,2020,20--39,Primary,1.18
+Montenegro,2025,20--39,Primary,1.04
+Netherlands,2020,20--39,Primary,3.2
+Netherlands,2025,20--39,Primary,3.06
+Norway,2020,20--39,Primary,0.29
+Norway,2025,20--39,Primary,0.17
+Poland,2020,20--39,Primary,0.83
+Poland,2025,20--39,Primary,1.01
+Portugal,2020,20--39,Primary,7.43
+Portugal,2025,20--39,Primary,5.7
+Republic of Moldova,2020,20--39,Primary,2.07
+Republic of Moldova,2025,20--39,Primary,1.92
+Romania,2020,20--39,Primary,2.69
+Romania,2025,20--39,Primary,1.78
+Russian Federation,2020,20--39,Primary,1.04
+Russian Federation,2025,20--39,Primary,1.12
+Serbia,2020,20--39,Primary,0.63
+Serbia,2025,20--39,Primary,0.41
+Slovakia,2020,20--39,Primary,0.01
+Slovakia,2025,20--39,Primary,0.03
+Slovenia,2020,20--39,Primary,0.33
+Slovenia,2025,20--39,Primary,0.33
+Spain,2020,20--39,Primary,8.7
+Spain,2025,20--39,Primary,8.35
+Sweden,2020,20--39,Primary,1.51
+Sweden,2025,20--39,Primary,0.99
+Switzerland,2020,20--39,Primary,1.83
+Switzerland,2025,20--39,Primary,1.47
+The former Yugoslav Republic of Macedonia,2020,20--39,Primary,1.73
+The former Yugoslav Republic of Macedonia,2025,20--39,Primary,1.5
+Ukraine,2020,20--39,Primary,0.04
+Ukraine,2025,20--39,Primary,0.09
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Primary,0.01
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Primary,0.03
+Albania,2020,20--39,Lower Secondary,33.18
+Albania,2025,20--39,Lower Secondary,26.58
+Austria,2020,20--39,Lower Secondary,13.03
+Austria,2025,20--39,Lower Secondary,11.21
+Belarus,2020,20--39,Lower Secondary,1.76
+Belarus,2025,20--39,Lower Secondary,1.78
+Belgium,2020,20--39,Lower Secondary,12.98
+Belgium,2025,20--39,Lower Secondary,10.91
+Bosnia and Herzegovina,2020,20--39,Lower Secondary,5.59
+Bosnia and Herzegovina,2025,20--39,Lower Secondary,4.26
+Bulgaria,2020,20--39,Lower Secondary,10.79
+Bulgaria,2025,20--39,Lower Secondary,8.39
+Croatia,2020,20--39,Lower Secondary,3.53
+Croatia,2025,20--39,Lower Secondary,2.67
+Czech Republic,2020,20--39,Lower Secondary,6.35
+Czech Republic,2025,20--39,Lower Secondary,5.39
+Denmark,2020,20--39,Lower Secondary,19.91
+Denmark,2025,20--39,Lower Secondary,16.99
+Estonia,2020,20--39,Lower Secondary,14.25
+Estonia,2025,20--39,Lower Secondary,11.96
+Europe,2020,20--39,Lower Secondary,10.37
+Europe,2025,20--39,Lower Secondary,8.81
+Finland,2020,20--39,Lower Secondary,9.64
+Finland,2025,20--39,Lower Secondary,8.4
+France,2020,20--39,Lower Secondary,6.7
+France,2025,20--39,Lower Secondary,5.69
+Germany,2020,20--39,Lower Secondary,11.4
+Germany,2025,20--39,Lower Secondary,10.05
+Greece,2020,20--39,Lower Secondary,6.76
+Greece,2025,20--39,Lower Secondary,5.21
+Hungary,2020,20--39,Lower Secondary,9.89
+Hungary,2025,20--39,Lower Secondary,8.08
+Iceland,2020,20--39,Lower Secondary,29.44
+Iceland,2025,20--39,Lower Secondary,25.64
+Ireland,2020,20--39,Lower Secondary,5.45
+Ireland,2025,20--39,Lower Secondary,4.5
+Italy,2020,20--39,Lower Secondary,18.49
+Italy,2025,20--39,Lower Secondary,14.17
+Latvia,2020,20--39,Lower Secondary,15.46
+Latvia,2025,20--39,Lower Secondary,13.3
+Lithuania,2020,20--39,Lower Secondary,9.63
+Lithuania,2025,20--39,Lower Secondary,7.91
+Luxembourg,2020,20--39,Lower Secondary,10.41
+Luxembourg,2025,20--39,Lower Secondary,8.91
+Malta,2020,20--39,Lower Secondary,29.2
+Malta,2025,20--39,Lower Secondary,22.62
+Montenegro,2020,20--39,Lower Secondary,6.99
+Montenegro,2025,20--39,Lower Secondary,5.25
+Netherlands,2020,20--39,Lower Secondary,11.31
+Netherlands,2025,20--39,Lower Secondary,9.94
+Norway,2020,20--39,Lower Secondary,20.64
+Norway,2025,20--39,Lower Secondary,18.42
+Poland,2020,20--39,Lower Secondary,5.33
+Poland,2025,20--39,Lower Secondary,4.4
+Portugal,2020,20--39,Lower Secondary,21.75
+Portugal,2025,20--39,Lower Secondary,17.79
+Republic of Moldova,2020,20--39,Lower Secondary,20.71
+Republic of Moldova,2025,20--39,Lower Secondary,16.33
+Romania,2020,20--39,Lower Secondary,16.52
+Romania,2025,20--39,Lower Secondary,13.17
+Russian Federation,2020,20--39,Lower Secondary,4.81
+Russian Federation,2025,20--39,Lower Secondary,4.29
+Serbia,2020,20--39,Lower Secondary,7.87
+Serbia,2025,20--39,Lower Secondary,6.15
+Slovakia,2020,20--39,Lower Secondary,6.07
+Slovakia,2025,20--39,Lower Secondary,5.02
+Slovenia,2020,20--39,Lower Secondary,7.35
+Slovenia,2025,20--39,Lower Secondary,6.46
+Spain,2020,20--39,Lower Secondary,20.66
+Spain,2025,20--39,Lower Secondary,16.08
+Sweden,2020,20--39,Lower Secondary,11.61
+Sweden,2025,20--39,Lower Secondary,10.1
+Switzerland,2020,20--39,Lower Secondary,9.02
+Switzerland,2025,20--39,Lower Secondary,7.78
+The former Yugoslav Republic of Macedonia,2020,20--39,Lower Secondary,11.04
+The former Yugoslav Republic of Macedonia,2025,20--39,Lower Secondary,8.18
+Ukraine,2020,20--39,Lower Secondary,3.26
+Ukraine,2025,20--39,Lower Secondary,3.01
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Lower Secondary,17.05
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Lower Secondary,14.12
+Albania,2020,20--39,Upper Secondary,38.32
+Albania,2025,20--39,Upper Secondary,43.75
+Austria,2020,20--39,Upper Secondary,46.98
+Austria,2025,20--39,Upper Secondary,46.06
+Belarus,2020,20--39,Upper Secondary,67.95
+Belarus,2025,20--39,Upper Secondary,67.23
+Belgium,2020,20--39,Upper Secondary,46.76
+Belgium,2025,20--39,Upper Secondary,46.17
+Bosnia and Herzegovina,2020,20--39,Upper Secondary,71.21
+Bosnia and Herzegovina,2025,20--39,Upper Secondary,70.96
+Bulgaria,2020,20--39,Upper Secondary,52.12
+Bulgaria,2025,20--39,Upper Secondary,54.33
+Croatia,2020,20--39,Upper Secondary,70.38
+Croatia,2025,20--39,Upper Secondary,68.93
+Czech Republic,2020,20--39,Upper Secondary,65.62
+Czech Republic,2025,20--39,Upper Secondary,65.5
+Denmark,2020,20--39,Upper Secondary,48
+Denmark,2025,20--39,Upper Secondary,47.44
+Estonia,2020,20--39,Upper Secondary,38.62
+Estonia,2025,20--39,Upper Secondary,40.69
+Europe,2020,20--39,Upper Secondary,50.78
+Europe,2025,20--39,Upper Secondary,50.2
+Finland,2020,20--39,Upper Secondary,56.59
+Finland,2025,20--39,Upper Secondary,55.17
+France,2020,20--39,Upper Secondary,42.4
+France,2025,20--39,Upper Secondary,41.67
+Germany,2020,20--39,Upper Secondary,46.97
+Germany,2025,20--39,Upper Secondary,45.73
+Greece,2020,20--39,Upper Secondary,41.89
+Greece,2025,20--39,Upper Secondary,42.4
+Hungary,2020,20--39,Upper Secondary,50.15
+Hungary,2025,20--39,Upper Secondary,50.16
+Iceland,2020,20--39,Upper Secondary,38.77
+Iceland,2025,20--39,Upper Secondary,38.7
+Ireland,2020,20--39,Upper Secondary,31.64
+Ireland,2025,20--39,Upper Secondary,32.71
+Italy,2020,20--39,Upper Secondary,55.49
+Italy,2025,20--39,Upper Secondary,57.53
+Latvia,2020,20--39,Upper Secondary,48.57
+Latvia,2025,20--39,Upper Secondary,50.32
+Lithuania,2020,20--39,Upper Secondary,35.97
+Lithuania,2025,20--39,Upper Secondary,36.2
+Luxembourg,2020,20--39,Upper Secondary,44.94
+Luxembourg,2025,20--39,Upper Secondary,43.69
+Malta,2020,20--39,Upper Secondary,29.87
+Malta,2025,20--39,Upper Secondary,31.42
+Montenegro,2020,20--39,Upper Secondary,65.68
+Montenegro,2025,20--39,Upper Secondary,65.65
+Netherlands,2020,20--39,Upper Secondary,44.12
+Netherlands,2025,20--39,Upper Secondary,42.44
+Norway,2020,20--39,Upper Secondary,34.97
+Norway,2025,20--39,Upper Secondary,34.77
+Poland,2020,20--39,Upper Secondary,54.6
+Poland,2025,20--39,Upper Secondary,54.24
+Portugal,2020,20--39,Upper Secondary,34.57
+Portugal,2025,20--39,Upper Secondary,38.01
+Republic of Moldova,2020,20--39,Upper Secondary,60.82
+Republic of Moldova,2025,20--39,Upper Secondary,64.23
+Romania,2020,20--39,Upper Secondary,47.02
+Romania,2025,20--39,Upper Secondary,49.83
+Russian Federation,2020,20--39,Upper Secondary,58.32
+Russian Federation,2025,20--39,Upper Secondary,58.18
+Serbia,2020,20--39,Upper Secondary,65.66
+Serbia,2025,20--39,Upper Secondary,66.06
+Slovakia,2020,20--39,Upper Secondary,63.37
+Slovakia,2025,20--39,Upper Secondary,62.71
+Slovenia,2020,20--39,Upper Secondary,60.76
+Slovenia,2025,20--39,Upper Secondary,59.61
+Spain,2020,20--39,Upper Secondary,28.04
+Spain,2025,20--39,Upper Secondary,30.26
+Sweden,2020,20--39,Upper Secondary,41.34
+Sweden,2025,20--39,Upper Secondary,40.61
+Switzerland,2020,20--39,Upper Secondary,49.26
+Switzerland,2025,20--39,Upper Secondary,47.19
+The former Yugoslav Republic of Macedonia,2020,20--39,Upper Secondary,68.96
+The former Yugoslav Republic of Macedonia,2025,20--39,Upper Secondary,71.36
+Ukraine,2020,20--39,Upper Secondary,74.08
+Ukraine,2025,20--39,Upper Secondary,73.04
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Upper Secondary,38.93
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Upper Secondary,38.75
+Albania,2020,20--39,Post Secondary,24.41
+Albania,2025,20--39,Post Secondary,26.52
+Austria,2020,20--39,Post Secondary,37.81
+Austria,2025,20--39,Post Secondary,40.59
+Belarus,2020,20--39,Post Secondary,30
+Belarus,2025,20--39,Post Secondary,30.69
+Belgium,2020,20--39,Post Secondary,36
+Belgium,2025,20--39,Post Secondary,38.95
+Bosnia and Herzegovina,2020,20--39,Post Secondary,21.87
+Bosnia and Herzegovina,2025,20--39,Post Secondary,23.53
+Bulgaria,2020,20--39,Post Secondary,30.06
+Bulgaria,2025,20--39,Post Secondary,30.76
+Croatia,2020,20--39,Post Secondary,25.43
+Croatia,2025,20--39,Post Secondary,27.77
+Czech Republic,2020,20--39,Post Secondary,27.43
+Czech Republic,2025,20--39,Post Secondary,28.61
+Denmark,2020,20--39,Post Secondary,31.98
+Denmark,2025,20--39,Post Secondary,35.47
+Estonia,2020,20--39,Post Secondary,44.89
+Estonia,2025,20--39,Post Secondary,45.38
+Europe,2020,20--39,Post Secondary,36.31
+Europe,2025,20--39,Post Secondary,38.56
+Finland,2020,20--39,Post Secondary,33.41
+Finland,2025,20--39,Post Secondary,35.87
+France,2020,20--39,Post Secondary,45.65
+France,2025,20--39,Post Secondary,47.86
+Germany,2020,20--39,Post Secondary,39.59
+Germany,2025,20--39,Post Secondary,42.44
+Greece,2020,20--39,Post Secondary,43.52
+Greece,2025,20--39,Post Secondary,45.35
+Hungary,2020,20--39,Post Secondary,38.89
+Hungary,2025,20--39,Post Secondary,40.96
+Iceland,2020,20--39,Post Secondary,31.75
+Iceland,2025,20--39,Post Secondary,35.52
+Ireland,2020,20--39,Post Secondary,60.92
+Ireland,2025,20--39,Post Secondary,61.26
+Italy,2020,20--39,Post Secondary,24.65
+Italy,2025,20--39,Post Secondary,27.3
+Latvia,2020,20--39,Post Secondary,33.44
+Latvia,2025,20--39,Post Secondary,34.08
+Lithuania,2020,20--39,Post Secondary,52.98
+Lithuania,2025,20--39,Post Secondary,54.62
+Luxembourg,2020,20--39,Post Secondary,40.78
+Luxembourg,2025,20--39,Post Secondary,44.25
+Malta,2020,20--39,Post Secondary,40.63
+Malta,2025,20--39,Post Secondary,45.5
+Montenegro,2020,20--39,Post Secondary,24.8
+Montenegro,2025,20--39,Post Secondary,26.7
+Netherlands,2020,20--39,Post Secondary,40.69
+Netherlands,2025,20--39,Post Secondary,44.05
+Norway,2020,20--39,Post Secondary,43.93
+Norway,2025,20--39,Post Secondary,46.5
+Poland,2020,20--39,Post Secondary,39.22
+Poland,2025,20--39,Post Secondary,40.29
+Portugal,2020,20--39,Post Secondary,32.49
+Portugal,2025,20--39,Post Secondary,34.99
+Republic of Moldova,2020,20--39,Post Secondary,16.08
+Republic of Moldova,2025,20--39,Post Secondary,17.27
+Romania,2020,20--39,Post Secondary,32.32
+Romania,2025,20--39,Post Secondary,34.04
+Russian Federation,2020,20--39,Post Secondary,35.38
+Russian Federation,2025,20--39,Post Secondary,35.89
+Serbia,2020,20--39,Post Secondary,24.45
+Serbia,2025,20--39,Post Secondary,26.08
+Slovakia,2020,20--39,Post Secondary,29.92
+Slovakia,2025,20--39,Post Secondary,31.38
+Slovenia,2020,20--39,Post Secondary,31.41
+Slovenia,2025,20--39,Post Secondary,33.44
+Spain,2020,20--39,Post Secondary,40.42
+Spain,2025,20--39,Post Secondary,43.01
+Sweden,2020,20--39,Post Secondary,45.52
+Sweden,2025,20--39,Post Secondary,48.18
+Switzerland,2020,20--39,Post Secondary,38.97
+Switzerland,2025,20--39,Post Secondary,42.44
+The former Yugoslav Republic of Macedonia,2020,20--39,Post Secondary,15.52
+The former Yugoslav Republic of Macedonia,2025,20--39,Post Secondary,16.48
+Ukraine,2020,20--39,Post Secondary,22.45
+Ukraine,2025,20--39,Post Secondary,23.72
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Post Secondary,43.99
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Post Secondary,47.04
+Albania,2020,20--39,Short Post Secondary,0
+Albania,2025,20--39,Short Post Secondary,0
+Austria,2020,20--39,Short Post Secondary,21.55
+Austria,2025,20--39,Short Post Secondary,22.95
+Belarus,2020,20--39,Short Post Secondary,0
+Belarus,2025,20--39,Short Post Secondary,0
+Belgium,2020,20--39,Short Post Secondary,23.39
+Belgium,2025,20--39,Short Post Secondary,25.33
+Bosnia and Herzegovina,2020,20--39,Short Post Secondary,3.19
+Bosnia and Herzegovina,2025,20--39,Short Post Secondary,3.46
+Bulgaria,2020,20--39,Short Post Secondary,1.08
+Bulgaria,2025,20--39,Short Post Secondary,1.14
+Croatia,2020,20--39,Short Post Secondary,7.36
+Croatia,2025,20--39,Short Post Secondary,8.03
+Czech Republic,2020,20--39,Short Post Secondary,6.68
+Czech Republic,2025,20--39,Short Post Secondary,7.05
+Denmark,2020,20--39,Short Post Secondary,5.49
+Denmark,2025,20--39,Short Post Secondary,6.09
+Estonia,2020,20--39,Short Post Secondary,14.12
+Estonia,2025,20--39,Short Post Secondary,14.5
+Europe,2020,20--39,Short Post Secondary,0
+Europe,2025,20--39,Short Post Secondary,0
+Finland,2020,20--39,Short Post Secondary,2.29
+Finland,2025,20--39,Short Post Secondary,2.48
+France,2020,20--39,Short Post Secondary,22.22
+France,2025,20--39,Short Post Secondary,23.38
+Germany,2020,20--39,Short Post Secondary,14.81
+Germany,2025,20--39,Short Post Secondary,15.75
+Greece,2020,20--39,Short Post Secondary,22.98
+Greece,2025,20--39,Short Post Secondary,24.11
+Hungary,2020,20--39,Short Post Secondary,12.93
+Hungary,2025,20--39,Short Post Secondary,13.35
+Iceland,2020,20--39,Short Post Secondary,6.59
+Iceland,2025,20--39,Short Post Secondary,7.44
+Ireland,2020,20--39,Short Post Secondary,25.42
+Ireland,2025,20--39,Short Post Secondary,25.49
+Italy,2020,20--39,Short Post Secondary,0.51
+Italy,2025,20--39,Short Post Secondary,0.57
+Latvia,2020,20--39,Short Post Secondary,8.27
+Latvia,2025,20--39,Short Post Secondary,8.46
+Lithuania,2020,20--39,Short Post Secondary,12.21
+Lithuania,2025,20--39,Short Post Secondary,13.3
+Luxembourg,2020,20--39,Short Post Secondary,6.91
+Luxembourg,2025,20--39,Short Post Secondary,7.5
+Malta,2020,20--39,Short Post Secondary,0
+Malta,2025,20--39,Short Post Secondary,0
+Montenegro,2020,20--39,Short Post Secondary,4.54
+Montenegro,2025,20--39,Short Post Secondary,4.86
+Netherlands,2020,20--39,Short Post Secondary,1.87
+Netherlands,2025,20--39,Short Post Secondary,2.02
+Norway,2020,20--39,Short Post Secondary,14.63
+Norway,2025,20--39,Short Post Secondary,15.44
+Poland,2020,20--39,Short Post Secondary,3.68
+Poland,2025,20--39,Short Post Secondary,3.79
+Portugal,2020,20--39,Short Post Secondary,27.1
+Portugal,2025,20--39,Short Post Secondary,29.2
+Republic of Moldova,2020,20--39,Short Post Secondary,0
+Republic of Moldova,2025,20--39,Short Post Secondary,0
+Romania,2020,20--39,Short Post Secondary,3.27
+Romania,2025,20--39,Short Post Secondary,3.46
+Russian Federation,2020,20--39,Short Post Secondary,0
+Russian Federation,2025,20--39,Short Post Secondary,0
+Serbia,2020,20--39,Short Post Secondary,0
+Serbia,2025,20--39,Short Post Secondary,0
+Slovakia,2020,20--39,Short Post Secondary,1.9
+Slovakia,2025,20--39,Short Post Secondary,2.02
+Slovenia,2020,20--39,Short Post Secondary,14.51
+Slovenia,2025,20--39,Short Post Secondary,15.62
+Spain,2020,20--39,Short Post Secondary,11.51
+Spain,2025,20--39,Short Post Secondary,12.33
+Sweden,2020,20--39,Short Post Secondary,17.52
+Sweden,2025,20--39,Short Post Secondary,18.34
+Switzerland,2020,20--39,Short Post Secondary,10.37
+Switzerland,2025,20--39,Short Post Secondary,11.32
+The former Yugoslav Republic of Macedonia,2020,20--39,Short Post Secondary,0
+The former Yugoslav Republic of Macedonia,2025,20--39,Short Post Secondary,0
+Ukraine,2020,20--39,Short Post Secondary,0
+Ukraine,2025,20--39,Short Post Secondary,0
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Short Post Secondary,15.86
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Short Post Secondary,17.02
+Albania,2020,20--39,Bachelor,0
+Albania,2025,20--39,Bachelor,0
+Austria,2020,20--39,Bachelor,3.82
+Austria,2025,20--39,Bachelor,3.95
+Belarus,2020,20--39,Bachelor,0
+Belarus,2025,20--39,Bachelor,0
+Belgium,2020,20--39,Bachelor,1.87
+Belgium,2025,20--39,Bachelor,1.98
+Bosnia and Herzegovina,2020,20--39,Bachelor,16
+Bosnia and Herzegovina,2025,20--39,Bachelor,17.16
+Bulgaria,2020,20--39,Bachelor,13.13
+Bulgaria,2025,20--39,Bachelor,13.37
+Croatia,2020,20--39,Bachelor,16.81
+Croatia,2025,20--39,Bachelor,18.36
+Czech Republic,2020,20--39,Bachelor,5.86
+Czech Republic,2025,20--39,Bachelor,6.14
+Denmark,2020,20--39,Bachelor,17.44
+Denmark,2025,20--39,Bachelor,19.15
+Estonia,2020,20--39,Bachelor,10.81
+Estonia,2025,20--39,Bachelor,10.77
+Europe,2020,20--39,Bachelor,0
+Europe,2025,20--39,Bachelor,0
+Finland,2020,20--39,Bachelor,19.36
+Finland,2025,20--39,Bachelor,20.68
+France,2020,20--39,Bachelor,12.05
+France,2025,20--39,Bachelor,12.5
+Germany,2020,20--39,Bachelor,13.21
+Germany,2025,20--39,Bachelor,14.19
+Greece,2020,20--39,Bachelor,16.36
+Greece,2025,20--39,Bachelor,16.95
+Hungary,2020,20--39,Bachelor,16.17
+Hungary,2025,20--39,Bachelor,17.16
+Iceland,2020,20--39,Bachelor,16.15
+Iceland,2025,20--39,Bachelor,18.06
+Ireland,2020,20--39,Bachelor,26.44
+Ireland,2025,20--39,Bachelor,26.88
+Italy,2020,20--39,Bachelor,8.15
+Italy,2025,20--39,Bachelor,9.05
+Latvia,2020,20--39,Bachelor,17.3
+Latvia,2025,20--39,Bachelor,17.61
+Lithuania,2020,20--39,Bachelor,28.11
+Lithuania,2025,20--39,Bachelor,28.34
+Luxembourg,2020,20--39,Bachelor,10.45
+Luxembourg,2025,20--39,Bachelor,11.19
+Malta,2020,20--39,Bachelor,0
+Malta,2025,20--39,Bachelor,0
+Montenegro,2020,20--39,Bachelor,17.86
+Montenegro,2025,20--39,Bachelor,19.22
+Netherlands,2020,20--39,Bachelor,24.98
+Netherlands,2025,20--39,Bachelor,26.56
+Norway,2020,20--39,Bachelor,18.02
+Norway,2025,20--39,Bachelor,19.01
+Poland,2020,20--39,Bachelor,10.41
+Poland,2025,20--39,Bachelor,10.73
+Portugal,2020,20--39,Bachelor,2.03
+Portugal,2025,20--39,Bachelor,2.14
+Republic of Moldova,2020,20--39,Bachelor,0
+Republic of Moldova,2025,20--39,Bachelor,0
+Romania,2020,20--39,Bachelor,24.57
+Romania,2025,20--39,Bachelor,25.89
+Russian Federation,2020,20--39,Bachelor,2.54
+Russian Federation,2025,20--39,Bachelor,2.57
+Serbia,2020,20--39,Bachelor,0
+Serbia,2025,20--39,Bachelor,0
+Slovakia,2020,20--39,Bachelor,6.44
+Slovakia,2025,20--39,Bachelor,6.78
+Slovenia,2020,20--39,Bachelor,15
+Slovenia,2025,20--39,Bachelor,15.79
+Spain,2020,20--39,Bachelor,13.17
+Spain,2025,20--39,Bachelor,14.04
+Sweden,2020,20--39,Bachelor,16.39
+Sweden,2025,20--39,Bachelor,17.17
+Switzerland,2020,20--39,Bachelor,13.12
+Switzerland,2025,20--39,Bachelor,14.24
+The former Yugoslav Republic of Macedonia,2020,20--39,Bachelor,0
+The former Yugoslav Republic of Macedonia,2025,20--39,Bachelor,0
+Ukraine,2020,20--39,Bachelor,0
+Ukraine,2025,20--39,Bachelor,0
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Bachelor,18.42
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Bachelor,19.65
+Albania,2020,20--39,Master and higher,0
+Albania,2025,20--39,Master and higher,0
+Austria,2020,20--39,Master and higher,12.45
+Austria,2025,20--39,Master and higher,13.66
+Belarus,2020,20--39,Master and higher,0
+Belarus,2025,20--39,Master and higher,0
+Belgium,2020,20--39,Master and higher,10.74
+Belgium,2025,20--39,Master and higher,11.63
+Bosnia and Herzegovina,2020,20--39,Master and higher,2.68
+Bosnia and Herzegovina,2025,20--39,Master and higher,2.91
+Bulgaria,2020,20--39,Master and higher,15.85
+Bulgaria,2025,20--39,Master and higher,16.23
+Croatia,2020,20--39,Master and higher,1.26
+Croatia,2025,20--39,Master and higher,1.37
+Czech Republic,2020,20--39,Master and higher,14.89
+Czech Republic,2025,20--39,Master and higher,15.41
+Denmark,2020,20--39,Master and higher,9.05
+Denmark,2025,20--39,Master and higher,10.22
+Estonia,2020,20--39,Master and higher,19.96
+Estonia,2025,20--39,Master and higher,20.09
+Europe,2020,20--39,Master and higher,0
+Europe,2025,20--39,Master and higher,0
+Finland,2020,20--39,Master and higher,11.77
+Finland,2025,20--39,Master and higher,12.71
+France,2020,20--39,Master and higher,11.37
+France,2025,20--39,Master and higher,11.96
+Germany,2020,20--39,Master and higher,11.57
+Germany,2025,20--39,Master and higher,12.49
+Greece,2020,20--39,Master and higher,4.18
+Greece,2025,20--39,Master and higher,4.27
+Hungary,2020,20--39,Master and higher,9.79
+Hungary,2025,20--39,Master and higher,10.44
+Iceland,2020,20--39,Master and higher,9.01
+Iceland,2025,20--39,Master and higher,10.02
+Ireland,2020,20--39,Master and higher,9.06
+Ireland,2025,20--39,Master and higher,8.89
+Italy,2020,20--39,Master and higher,15.99
+Italy,2025,20--39,Master and higher,17.66
+Latvia,2020,20--39,Master and higher,7.87
+Latvia,2025,20--39,Master and higher,7.97
+Lithuania,2020,20--39,Master and higher,12.66
+Lithuania,2025,20--39,Master and higher,12.98
+Luxembourg,2020,20--39,Master and higher,23.41
+Luxembourg,2025,20--39,Master and higher,25.54
+Malta,2020,20--39,Master and higher,0
+Malta,2025,20--39,Master and higher,0
+Montenegro,2020,20--39,Master and higher,2.4
+Montenegro,2025,20--39,Master and higher,2.59
+Netherlands,2020,20--39,Master and higher,13.47
+Netherlands,2025,20--39,Master and higher,14.45
+Norway,2020,20--39,Master and higher,11.28
+Norway,2025,20--39,Master and higher,12.05
+Poland,2020,20--39,Master and higher,25.13
+Poland,2025,20--39,Master and higher,25.76
+Portugal,2020,20--39,Master and higher,3.35
+Portugal,2025,20--39,Master and higher,3.63
+Republic of Moldova,2020,20--39,Master and higher,0
+Republic of Moldova,2025,20--39,Master and higher,0
+Romania,2020,20--39,Master and higher,4.48
+Romania,2025,20--39,Master and higher,4.68
+Russian Federation,2020,20--39,Master and higher,33.94
+Russian Federation,2025,20--39,Master and higher,34.86
+Serbia,2020,20--39,Master and higher,0
+Serbia,2025,20--39,Master and higher,0
+Slovakia,2020,20--39,Master and higher,21.57
+Slovakia,2025,20--39,Master and higher,22.57
+Slovenia,2020,20--39,Master and higher,1.91
+Slovenia,2025,20--39,Master and higher,2.02
+Spain,2020,20--39,Master and higher,15.75
+Spain,2025,20--39,Master and higher,16.63
+Sweden,2020,20--39,Master and higher,11.62
+Sweden,2025,20--39,Master and higher,12.66
+Switzerland,2020,20--39,Master and higher,15.48
+Switzerland,2025,20--39,Master and higher,16.89
+The former Yugoslav Republic of Macedonia,2020,20--39,Master and higher,0
+The former Yugoslav Republic of Macedonia,2025,20--39,Master and higher,0
+Ukraine,2020,20--39,Master and higher,0
+Ukraine,2025,20--39,Master and higher,0
+United Kingdom of Great Britain and Northern Ireland,2020,20--39,Master and higher,9.7
+United Kingdom of Great Britain and Northern Ireland,2025,20--39,Master and higher,10.37
